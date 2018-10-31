@@ -28,6 +28,11 @@
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
+#### Name: [TANVEER SINGH MODI](https://github.com/tnveer)
+- Place: India
+- Bio: I like to code
+- GitHub: [tnveer](https://github.com/tnveer)
+
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
